@@ -1,0 +1,6422 @@
+[
+    {
+        "id": 1,
+        "substance_id": 1,
+        "type": "iupacname",
+        "value": "ethane-1,2-diol",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 13:29:10+00:00"
+    },
+    {
+        "id": 2,
+        "substance_id": 1,
+        "type": "inchi",
+        "value": "InChI=1S/C2H6O2/c3-1-2-4/h3-4H,1-2H2",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 13:29:10+00:00"
+    },
+    {
+        "id": 3,
+        "substance_id": 1,
+        "type": "inchikey",
+        "value": "LYCAIKOWRPUZTN-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 13:29:11+00:00"
+    },
+    {
+        "id": 4,
+        "substance_id": 1,
+        "type": "csmiles",
+        "value": "C(CO)O",
+        "iso": null,
+        "source": "chemspider",
+        "comment": null,
+        "updated": "2020-06-08 13:29:11+00:00"
+    },
+    {
+        "id": 5,
+        "substance_id": 1,
+        "type": "ismiles",
+        "value": "C(CO)O",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 13:29:11+00:00"
+    },
+    {
+        "id": 6,
+        "substance_id": 1,
+        "type": "casrn",
+        "value": "107-21-1",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 13:29:11+00:00"
+    },
+    {
+        "id": 7,
+        "substance_id": 1,
+        "type": "pubchem",
+        "value": "174",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 13:29:11+00:00"
+    },
+    {
+        "id": 8,
+        "substance_id": 1,
+        "type": "rtecs",
+        "value": "KW2975000",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 13:29:11+00:00"
+    },
+    {
+        "id": 9,
+        "substance_id": 1,
+        "type": "chebi",
+        "value": "30742",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 13:29:11+00:00"
+    },
+    {
+        "id": 10,
+        "substance_id": 1,
+        "type": "inchi",
+        "value": "1S/C2H6O2/c3-1-2-4/h3-4H,1-2H2",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 13:29:11+00:00"
+    },
+    {
+        "id": 11,
+        "substance_id": 1,
+        "type": "inchikey",
+        "value": "LYCAIKOWRPUZTN-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 13:29:12+00:00"
+    },
+    {
+        "id": 12,
+        "substance_id": 1,
+        "type": "chemspider",
+        "value": "13835235",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 13:29:12+00:00"
+    },
+    {
+        "id": 13,
+        "substance_id": 1,
+        "type": "chembl",
+        "value": "CHEMBL457299",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 13:29:12+00:00"
+    },
+    {
+        "id": 14,
+        "substance_id": 1,
+        "type": "reaxys",
+        "value": "505945",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 13:29:12+00:00"
+    },
+    {
+        "id": 15,
+        "substance_id": 1,
+        "type": "dsstox",
+        "value": "DTXSID8020597",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 13:29:12+00:00"
+    },
+    {
+        "id": 16,
+        "substance_id": 1,
+        "type": "gmelin",
+        "value": "943",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 13:29:12+00:00"
+    },
+    {
+        "id": 17,
+        "substance_id": 1,
+        "type": "othername",
+        "value": "1,2-Ethanediol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 13:29:12+00:00"
+    },
+    {
+        "id": 18,
+        "substance_id": 1,
+        "type": "othername",
+        "value": "1,2-Dihydroxyethane",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 13:29:12+00:00"
+    },
+    {
+        "id": 19,
+        "substance_id": 1,
+        "type": "othername",
+        "value": "Ethanediol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 13:29:12+00:00"
+    },
+    {
+        "id": 20,
+        "substance_id": 1,
+        "type": "othername",
+        "value": "ethylene alcohol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 13:29:12+00:00"
+    },
+    {
+        "id": 21,
+        "substance_id": 1,
+        "type": "othername",
+        "value": "2-Hydroxyethanol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 13:29:12+00:00"
+    },
+    {
+        "id": 22,
+        "substance_id": 1,
+        "type": "othername",
+        "value": "Glycol alcohol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 13:29:14+00:00"
+    },
+    {
+        "id": 23,
+        "substance_id": 1,
+        "type": "othername",
+        "value": "Glycol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 13:29:14+00:00"
+    },
+    {
+        "id": 24,
+        "substance_id": 1,
+        "type": "othername",
+        "value": "ethylene glycols",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 13:29:14+00:00"
+    },
+    {
+        "id": 25,
+        "substance_id": 1,
+        "type": "othername",
+        "value": "Monoethylene glycol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 13:29:14+00:00"
+    },
+    {
+        "id": 26,
+        "substance_id": 1,
+        "type": "ismiles",
+        "value": "OCCO",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 13:29:14+00:00"
+    },
+    {
+        "id": 27,
+        "substance_id": 1,
+        "type": "inchi",
+        "value": "InChI=1S/C2H6O2/c3-1-2-4/h3-4H,1-2H2",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 13:29:14+00:00"
+    },
+    {
+        "id": 28,
+        "substance_id": 1,
+        "type": "inchikey",
+        "value": "LYCAIKOWRPUZTN-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 13:29:14+00:00"
+    },
+    {
+        "id": 29,
+        "substance_id": 1,
+        "type": "other",
+        "value": "1,2-Ethanediol",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 13:29:14+00:00"
+    },
+    {
+        "id": 30,
+        "substance_id": 1,
+        "type": "other",
+        "value": "Ethylene Glycol",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 13:29:14+00:00"
+    },
+    {
+        "id": 31,
+        "substance_id": 1,
+        "type": "atc",
+        "value": "Macrogol",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 13:29:14+00:00"
+    },
+    {
+        "id": 32,
+        "substance_id": 1,
+        "type": "bnf",
+        "value": "Macrogol",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 13:29:14+00:00"
+    },
+    {
+        "id": 33,
+        "substance_id": 1,
+        "type": "inn",
+        "value": "Macrogol",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 13:29:14+00:00"
+    },
+    {
+        "id": 109,
+        "substance_id": 2,
+        "type": "iupacname",
+        "value": "4-N-(6-chloro-2-methoxyacridin-9-yl)-1-N,1-N-diethylpentane-1,4-diamine",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:11:12+00:00"
+    },
+    {
+        "id": 110,
+        "substance_id": 2,
+        "type": "inchi",
+        "value": "InChI=1S/C23H30ClN3O/c1-5-27(6-2)13-7-8-16(3)25-23-19-11-9-17(24)14-22(19)26-21-12-10-18(28-4)15-20(21)23/h9-12,14-16H,5-8,13H2,1-4H3,(H,25,26)",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:11:12+00:00"
+    },
+    {
+        "id": 111,
+        "substance_id": 2,
+        "type": "inchikey",
+        "value": "GPKJTRJOBQGKQK-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:11:12+00:00"
+    },
+    {
+        "id": 112,
+        "substance_id": 2,
+        "type": "csmiles",
+        "value": "CCN(CC)CCCC(C)NC1=C2C=C(C=CC2=NC3=C1C=CC(=C3)Cl)OC",
+        "iso": null,
+        "source": "chemspider",
+        "comment": null,
+        "updated": "2020-06-08 19:11:12+00:00"
+    },
+    {
+        "id": 113,
+        "substance_id": 2,
+        "type": "ismiles",
+        "value": "CCN(CC)CCCC(C)NC1=C2C=C(C=CC2=NC3=C1C=CC(=C3)Cl)OC",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:11:12+00:00"
+    },
+    {
+        "id": 114,
+        "substance_id": 2,
+        "type": "casrn",
+        "value": "83-89-6",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:11:12+00:00"
+    },
+    {
+        "id": 115,
+        "substance_id": 2,
+        "type": "pubchem",
+        "value": "237",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:11:12+00:00"
+    },
+    {
+        "id": 116,
+        "substance_id": 2,
+        "type": "chebi",
+        "value": "8711",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:11:12+00:00"
+    },
+    {
+        "id": 117,
+        "substance_id": 2,
+        "type": "chembl",
+        "value": "CHEMBL7568",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:11:12+00:00"
+    },
+    {
+        "id": 118,
+        "substance_id": 2,
+        "type": "inchi",
+        "value": "1S/C23H30ClN3O/c1-5-27(6-2)13-7-8-16(3)25-23-19-11-9-17(24)14-22(19)26-21-12-10-18(28-4)15-20(21)23/h9-12,14-16H,5-8,13H2,1-4H3,(H,25,26)",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:11:12+00:00"
+    },
+    {
+        "id": 119,
+        "substance_id": 2,
+        "type": "inchikey",
+        "value": "GPKJTRJOBQGKQK-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:11:12+00:00"
+    },
+    {
+        "id": 120,
+        "substance_id": 2,
+        "type": "chemspider",
+        "value": "232",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:11:12+00:00"
+    },
+    {
+        "id": 121,
+        "substance_id": 2,
+        "type": "atc",
+        "value": "P01AX05",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:11:12+00:00"
+    },
+    {
+        "id": 122,
+        "substance_id": 2,
+        "type": "reaxys",
+        "value": "497807",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:11:13+00:00"
+    },
+    {
+        "id": 123,
+        "substance_id": 2,
+        "type": "dsstox",
+        "value": "DTXSID7022627",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:11:13+00:00"
+    },
+    {
+        "id": 124,
+        "substance_id": 2,
+        "type": "othername",
+        "value": "N(4)-(6-chloro-2-Methoxy-9-acridinyl)-N(1),N(1)-diethyl-1,4-pentanediamine",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:11:13+00:00"
+    },
+    {
+        "id": 125,
+        "substance_id": 2,
+        "type": "othername",
+        "value": "Mepacrine",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:11:13+00:00"
+    },
+    {
+        "id": 126,
+        "substance_id": 2,
+        "type": "othername",
+        "value": "3-chloro-7-Methoxy-9-(1-methyl-4-diethylaminobutylamino)acridine",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:11:13+00:00"
+    },
+    {
+        "id": 127,
+        "substance_id": 2,
+        "type": "othername",
+        "value": "2-Methoxy-6-chloro-9-diethylaminopentylaminoacridine",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:11:13+00:00"
+    },
+    {
+        "id": 128,
+        "substance_id": 2,
+        "type": "othername",
+        "value": "6-chloro-9-((4-(diethylamino)-1-methylbutyl)amino)-2-methoxyacridine",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:11:13+00:00"
+    },
+    {
+        "id": 129,
+        "substance_id": 2,
+        "type": "othername",
+        "value": "2-methoxy-6-chloro-9-diethylaminopentylaminoacridine",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:11:13+00:00"
+    },
+    {
+        "id": 130,
+        "substance_id": 2,
+        "type": "othername",
+        "value": "N4-(6-chloro-2-methoxy-9-acridinyl)-N1,N1-diethyl-1,4-pentanediamine",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:11:13+00:00"
+    },
+    {
+        "id": 131,
+        "substance_id": 2,
+        "type": "othername",
+        "value": "Quinacrine",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:11:13+00:00"
+    },
+    {
+        "id": 132,
+        "substance_id": 2,
+        "type": "othername",
+        "value": "6-chloro-9-((4-(Diethylamino)-1-methylbutyl)amino)-2-methoxyacridine",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:11:13+00:00"
+    },
+    {
+        "id": 133,
+        "substance_id": 2,
+        "type": "othername",
+        "value": "3-chloro-7-methoxy-9-(1-methyl-4-diethylaminobutylamino)acridine",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:11:13+00:00"
+    },
+    {
+        "id": 134,
+        "substance_id": 2,
+        "type": "othername",
+        "value": "GNF-Pf-5448",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:11:13+00:00"
+    },
+    {
+        "id": 135,
+        "substance_id": 2,
+        "type": "ismiles",
+        "value": "CCN(CC)CCCC(C)Nc1c2ccc(Cl)cc2nc2ccc(OC)cc12",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:11:13+00:00"
+    },
+    {
+        "id": 136,
+        "substance_id": 2,
+        "type": "inchi",
+        "value": "InChI=1S/C23H30ClN3O/c1-5-27(6-2)13-7-8-16(3)25-23-19-11-9-17(24)14-22(19)26-21-12-10-18(28-4)15-20(21)23/h9-12,14-16H,5-8,13H2,1-4H3,(H,25,26)",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:11:13+00:00"
+    },
+    {
+        "id": 137,
+        "substance_id": 2,
+        "type": "inchikey",
+        "value": "GPKJTRJOBQGKQK-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:11:13+00:00"
+    },
+    {
+        "id": 138,
+        "substance_id": 2,
+        "type": "research_code",
+        "value": "GNF-Pf-5448",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:11:13+00:00"
+    },
+    {
+        "id": 139,
+        "substance_id": 2,
+        "type": "atc",
+        "value": "Mepacrine",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:11:13+00:00"
+    },
+    {
+        "id": 140,
+        "substance_id": 2,
+        "type": "ban",
+        "value": "Mepacrine",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:11:13+00:00"
+    },
+    {
+        "id": 141,
+        "substance_id": 2,
+        "type": "inn",
+        "value": "Mepacrine",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:11:14+00:00"
+    },
+    {
+        "id": 142,
+        "substance_id": 2,
+        "type": "other",
+        "value": "Quinacrine",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:11:14+00:00"
+    },
+    {
+        "id": 143,
+        "substance_id": 2,
+        "type": "other",
+        "value": "Mepacrine",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:11:14+00:00"
+    },
+    {
+        "id": 144,
+        "substance_id": 2,
+        "type": "merck_index",
+        "value": "Quinacrine",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:11:14+00:00"
+    },
+    {
+        "id": 211,
+        "substance_id": 3,
+        "type": "iupacname",
+        "value": "benzoic acid",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:39:56+00:00"
+    },
+    {
+        "id": 212,
+        "substance_id": 3,
+        "type": "inchi",
+        "value": "InChI=1S/C7H6O2/c8-7(9)6-4-2-1-3-5-6/h1-5H,(H,8,9)",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:39:56+00:00"
+    },
+    {
+        "id": 213,
+        "substance_id": 3,
+        "type": "inchikey",
+        "value": "WPYMKLBDIGXBTP-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:39:56+00:00"
+    },
+    {
+        "id": 214,
+        "substance_id": 3,
+        "type": "csmiles",
+        "value": "C1=CC=C(C=C1)C(=O)O",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:39:57+00:00"
+    },
+    {
+        "id": 215,
+        "substance_id": 3,
+        "type": "ismiles",
+        "value": "C1=CC=C(C=C1)C(=O)O",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:39:57+00:00"
+    },
+    {
+        "id": 216,
+        "substance_id": 3,
+        "type": "casrn",
+        "value": "65-85-0",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:39:57+00:00"
+    },
+    {
+        "id": 217,
+        "substance_id": 3,
+        "type": "rtecs",
+        "value": "DG0875000",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:39:57+00:00"
+    },
+    {
+        "id": 218,
+        "substance_id": 3,
+        "type": "pubchem",
+        "value": "243",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:39:57+00:00"
+    },
+    {
+        "id": 219,
+        "substance_id": 3,
+        "type": "chebi",
+        "value": "30746",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:39:57+00:00"
+    },
+    {
+        "id": 220,
+        "substance_id": 3,
+        "type": "inchi",
+        "value": "1S/C7H6O2/c8-7(9)6-4-2-1-3-5-6/h1-5H,(H,8,9)",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:39:57+00:00"
+    },
+    {
+        "id": 221,
+        "substance_id": 3,
+        "type": "inchikey",
+        "value": "WPYMKLBDIGXBTP-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:39:58+00:00"
+    },
+    {
+        "id": 222,
+        "substance_id": 3,
+        "type": "chemspider",
+        "value": "238",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:39:58+00:00"
+    },
+    {
+        "id": 223,
+        "substance_id": 3,
+        "type": "chembl",
+        "value": "CHEMBL541",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:39:58+00:00"
+    },
+    {
+        "id": 224,
+        "substance_id": 3,
+        "type": "reaxys",
+        "value": "636131",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:39:59+00:00"
+    },
+    {
+        "id": 225,
+        "substance_id": 3,
+        "type": "dsstox",
+        "value": "DTXSID6020143",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:39:59+00:00"
+    },
+    {
+        "id": 226,
+        "substance_id": 3,
+        "type": "gmelin",
+        "value": "2946",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:39:59+00:00"
+    },
+    {
+        "id": 227,
+        "substance_id": 3,
+        "type": "othername",
+        "value": "Retardex",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:39:59+00:00"
+    },
+    {
+        "id": 228,
+        "substance_id": 3,
+        "type": "othername",
+        "value": "benzenemethonic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:40:00+00:00"
+    },
+    {
+        "id": 229,
+        "substance_id": 3,
+        "type": "othername",
+        "value": "oracylic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:40:00+00:00"
+    },
+    {
+        "id": 230,
+        "substance_id": 3,
+        "type": "othername",
+        "value": "carboxybenzene",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:40:00+00:00"
+    },
+    {
+        "id": 231,
+        "substance_id": 3,
+        "type": "othername",
+        "value": "diacylic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:40:00+00:00"
+    },
+    {
+        "id": 232,
+        "substance_id": 3,
+        "type": "othername",
+        "value": "E210",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:40:01+00:00"
+    },
+    {
+        "id": 233,
+        "substance_id": 3,
+        "type": "othername",
+        "value": "benzeneformic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:40:01+00:00"
+    },
+    {
+        "id": 234,
+        "substance_id": 3,
+        "type": "othername",
+        "value": "benzenemethanoic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:40:01+00:00"
+    },
+    {
+        "id": 235,
+        "substance_id": 3,
+        "type": "othername",
+        "value": "phenylcarboxylic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:40:01+00:00"
+    },
+    {
+        "id": 236,
+        "substance_id": 3,
+        "type": "ismiles",
+        "value": "O=C(O)c1ccccc1",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:40:02+00:00"
+    },
+    {
+        "id": 237,
+        "substance_id": 3,
+        "type": "inchi",
+        "value": "InChI=1S/C7H6O2/c8-7(9)6-4-2-1-3-5-6/h1-5H,(H,8,9)",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:40:02+00:00"
+    },
+    {
+        "id": 238,
+        "substance_id": 3,
+        "type": "inchikey",
+        "value": "WPYMKLBDIGXBTP-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:40:02+00:00"
+    },
+    {
+        "id": 239,
+        "substance_id": 3,
+        "type": "fda",
+        "value": "Benzoate",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:40:02+00:00"
+    },
+    {
+        "id": 240,
+        "substance_id": 3,
+        "type": "usan",
+        "value": "Benzoic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:40:02+00:00"
+    },
+    {
+        "id": 241,
+        "substance_id": 3,
+        "type": "bnf",
+        "value": "Benzoic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:40:02+00:00"
+    },
+    {
+        "id": 242,
+        "substance_id": 3,
+        "type": "jan",
+        "value": "Benzoic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:40:02+00:00"
+    },
+    {
+        "id": 243,
+        "substance_id": 3,
+        "type": "usp",
+        "value": "Benzoic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:40:02+00:00"
+    },
+    {
+        "id": 244,
+        "substance_id": 3,
+        "type": "e_number",
+        "value": "E210",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:40:03+00:00"
+    },
+    {
+        "id": 245,
+        "substance_id": 3,
+        "type": "trade_name",
+        "value": "Whitfield's",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:40:03+00:00"
+    },
+    {
+        "id": 315,
+        "substance_id": 4,
+        "type": "iupacname",
+        "value": "phenylmethanol",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:48:51+00:00"
+    },
+    {
+        "id": 316,
+        "substance_id": 4,
+        "type": "inchi",
+        "value": "InChI=1S/C7H8O/c8-6-7-4-2-1-3-5-7/h1-5,8H,6H2",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:48:51+00:00"
+    },
+    {
+        "id": 317,
+        "substance_id": 4,
+        "type": "inchikey",
+        "value": "WVDDGKGOMKODPV-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:48:51+00:00"
+    },
+    {
+        "id": 318,
+        "substance_id": 4,
+        "type": "csmiles",
+        "value": "C1=CC=C(C=C1)CO",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:48:51+00:00"
+    },
+    {
+        "id": 319,
+        "substance_id": 4,
+        "type": "ismiles",
+        "value": "C1=CC=C(C=C1)CO",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:48:52+00:00"
+    },
+    {
+        "id": 320,
+        "substance_id": 4,
+        "type": "casrn",
+        "value": "100-51-6",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:52+00:00"
+    },
+    {
+        "id": 321,
+        "substance_id": 4,
+        "type": "pubchem",
+        "value": "244",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:53+00:00"
+    },
+    {
+        "id": 322,
+        "substance_id": 4,
+        "type": "rtecs",
+        "value": "DN3150000",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:53+00:00"
+    },
+    {
+        "id": 323,
+        "substance_id": 4,
+        "type": "chebi",
+        "value": "17987",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:53+00:00"
+    },
+    {
+        "id": 324,
+        "substance_id": 4,
+        "type": "inchi",
+        "value": "1S/C7H8O/c8-6-7-4-2-1-3-5-7/h1-5,8H,6H2",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:53+00:00"
+    },
+    {
+        "id": 325,
+        "substance_id": 4,
+        "type": "inchikey",
+        "value": "WVDDGKGOMKODPV-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:54+00:00"
+    },
+    {
+        "id": 326,
+        "substance_id": 4,
+        "type": "chemspider",
+        "value": "13860335",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:54+00:00"
+    },
+    {
+        "id": 327,
+        "substance_id": 4,
+        "type": "chembl",
+        "value": "CHEMBL720",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:54+00:00"
+    },
+    {
+        "id": 328,
+        "substance_id": 4,
+        "type": "reaxys",
+        "value": "878307",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:54+00:00"
+    },
+    {
+        "id": 329,
+        "substance_id": 4,
+        "type": "dsstox",
+        "value": "DTXSID5020152",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:54+00:00"
+    },
+    {
+        "id": 330,
+        "substance_id": 4,
+        "type": "gmelin",
+        "value": "26514",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:54+00:00"
+    },
+    {
+        "id": 331,
+        "substance_id": 4,
+        "type": "atc",
+        "value": "P03AX06",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:54+00:00"
+    },
+    {
+        "id": 332,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Benzenmethanol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:54+00:00"
+    },
+    {
+        "id": 333,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Benzyl alkohol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:55+00:00"
+    },
+    {
+        "id": 334,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "BenzylAlcohol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:55+00:00"
+    },
+    {
+        "id": 335,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Benzylicum",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:55+00:00"
+    },
+    {
+        "id": 336,
+        "substance_id": 4,
+        "type": "othername",
+        "value": ".alpha.-toluenol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:56+00:00"
+    },
+    {
+        "id": 337,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Phenylmethyl alcohol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:56+00:00"
+    },
+    {
+        "id": 338,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Phenylcarbinolum",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:56+00:00"
+    },
+    {
+        "id": 339,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Benzenecarbinol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:56+00:00"
+    },
+    {
+        "id": 340,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Hydroxymethylbenzene",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:57+00:00"
+    },
+    {
+        "id": 341,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Ulesfia",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:57+00:00"
+    },
+    {
+        "id": 342,
+        "substance_id": 4,
+        "type": "othername",
+        "value": ".alpha.-hydroxytoluene",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:57+00:00"
+    },
+    {
+        "id": 343,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Alcool benzylique",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:57+00:00"
+    },
+    {
+        "id": 344,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Euxyl K 100",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:57+00:00"
+    },
+    {
+        "id": 345,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Aromatic alcohol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:57+00:00"
+    },
+    {
+        "id": 346,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "TB 13G",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:57+00:00"
+    },
+    {
+        "id": 347,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Benzylic alcohol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:57+00:00"
+    },
+    {
+        "id": 348,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "alpha-Toluenol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:57+00:00"
+    },
+    {
+        "id": 349,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Enzylalcohol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:57+00:00"
+    },
+    {
+        "id": 350,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Itch-x",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:58+00:00"
+    },
+    {
+        "id": 351,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Benzylalkohol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:58+00:00"
+    },
+    {
+        "id": 352,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Phenylcarbinol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:58+00:00"
+    },
+    {
+        "id": 353,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Alcoolbenzylique",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:58+00:00"
+    },
+    {
+        "id": 354,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Hydroxytoluene",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:58+00:00"
+    },
+    {
+        "id": 355,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "alpha-Hydroxytoluene",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:58+00:00"
+    },
+    {
+        "id": 356,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Phenolcarbinol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:58+00:00"
+    },
+    {
+        "id": 357,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Caswell No. 081F",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:58+00:00"
+    },
+    {
+        "id": 358,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Methanol benzene",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:58+00:00"
+    },
+    {
+        "id": 359,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "(Hydroxymethyl)benzene",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:58+00:00"
+    },
+    {
+        "id": 360,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Sunmorl BK 20",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:58+00:00"
+    },
+    {
+        "id": 361,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Benzyl-alcohol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:59+00:00"
+    },
+    {
+        "id": 362,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Phenylmethanol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:59+00:00"
+    },
+    {
+        "id": 363,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Benzyl alcohol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:59+00:00"
+    },
+    {
+        "id": 364,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Benzenemethanol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:59+00:00"
+    },
+    {
+        "id": 365,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Aromatic primary alcohol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:59+00:00"
+    },
+    {
+        "id": 366,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Bentalol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:48:59+00:00"
+    },
+    {
+        "id": 367,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Benzoyl alcohol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:00+00:00"
+    },
+    {
+        "id": 368,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Benzalcohol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:00+00:00"
+    },
+    {
+        "id": 369,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "MBN",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:01+00:00"
+    },
+    {
+        "id": 370,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Alcoholum benzylicum",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:01+00:00"
+    },
+    {
+        "id": 371,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "a-Hydroxytoluene",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:01+00:00"
+    },
+    {
+        "id": 372,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Benzal alcohol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:02+00:00"
+    },
+    {
+        "id": 373,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "a-Toluenol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:02+00:00"
+    },
+    {
+        "id": 374,
+        "substance_id": 4,
+        "type": "othername",
+        "value": "Benzalalcohol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:02+00:00"
+    },
+    {
+        "id": 375,
+        "substance_id": 4,
+        "type": "ismiles",
+        "value": "OCc1ccccc1",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:02+00:00"
+    },
+    {
+        "id": 376,
+        "substance_id": 4,
+        "type": "inchi",
+        "value": "InChI=1S/C7H8O/c8-6-7-4-2-1-3-5-7/h1-5,8H,6H2",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:03+00:00"
+    },
+    {
+        "id": 377,
+        "substance_id": 4,
+        "type": "inchikey",
+        "value": "WVDDGKGOMKODPV-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:03+00:00"
+    },
+    {
+        "id": 378,
+        "substance_id": 4,
+        "type": "usan",
+        "value": "Benzyl Alcohol",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:03+00:00"
+    },
+    {
+        "id": 379,
+        "substance_id": 4,
+        "type": "atc",
+        "value": "Benzyl alcohol",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:03+00:00"
+    },
+    {
+        "id": 380,
+        "substance_id": 4,
+        "type": "fda",
+        "value": "Benzyl alcohol",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:03+00:00"
+    },
+    {
+        "id": 381,
+        "substance_id": 4,
+        "type": "inn",
+        "value": "Benzyl alcohol",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:03+00:00"
+    },
+    {
+        "id": 382,
+        "substance_id": 4,
+        "type": "jan",
+        "value": "Benzyl alcohol",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:03+00:00"
+    },
+    {
+        "id": 383,
+        "substance_id": 4,
+        "type": "merck_index",
+        "value": "Benzyl alcohol",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:04+00:00"
+    },
+    {
+        "id": 384,
+        "substance_id": 4,
+        "type": "national_formulary",
+        "value": "Benzyl alcohol",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:04+00:00"
+    },
+    {
+        "id": 385,
+        "substance_id": 4,
+        "type": "other",
+        "value": "Phenylcarbinol",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:05+00:00"
+    },
+    {
+        "id": 386,
+        "substance_id": 4,
+        "type": "other",
+        "value": "Benzyl alcohol",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:05+00:00"
+    },
+    {
+        "id": 387,
+        "substance_id": 4,
+        "type": "usp",
+        "value": "Benzyl alcohol",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:05+00:00"
+    },
+    {
+        "id": 388,
+        "substance_id": 4,
+        "type": "e_number",
+        "value": "E1519",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:05+00:00"
+    },
+    {
+        "id": 389,
+        "substance_id": 4,
+        "type": "research_code",
+        "value": "NSC-8044",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:06+00:00"
+    },
+    {
+        "id": 390,
+        "substance_id": 4,
+        "type": "research_code",
+        "value": "INS NO.1519",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:06+00:00"
+    },
+    {
+        "id": 391,
+        "substance_id": 4,
+        "type": "research_code",
+        "value": "E-1519",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:06+00:00"
+    },
+    {
+        "id": 392,
+        "substance_id": 4,
+        "type": "research_code",
+        "value": "FEMA NO. 2137",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:06+00:00"
+    },
+    {
+        "id": 393,
+        "substance_id": 4,
+        "type": "research_code",
+        "value": "INS-1519",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:07+00:00"
+    },
+    {
+        "id": 394,
+        "substance_id": 4,
+        "type": "trade_name",
+        "value": "Ulesfia",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:07+00:00"
+    },
+    {
+        "id": 395,
+        "substance_id": 5,
+        "type": "iupacname",
+        "value": "benzene-1,2-diol",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:49:53+00:00"
+    },
+    {
+        "id": 396,
+        "substance_id": 5,
+        "type": "inchi",
+        "value": "InChI=1S/C6H6O2/c7-5-3-1-2-4-6(5)8/h1-4,7-8H",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:49:53+00:00"
+    },
+    {
+        "id": 397,
+        "substance_id": 5,
+        "type": "inchikey",
+        "value": "YCIMNLLNPGFGHC-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:49:53+00:00"
+    },
+    {
+        "id": 398,
+        "substance_id": 5,
+        "type": "csmiles",
+        "value": "C1=CC=C(C(=C1)O)O",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:49:53+00:00"
+    },
+    {
+        "id": 399,
+        "substance_id": 5,
+        "type": "ismiles",
+        "value": "C1=CC=C(C(=C1)O)O",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:49:53+00:00"
+    },
+    {
+        "id": 400,
+        "substance_id": 5,
+        "type": "casrn",
+        "value": "120-80-9",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:53+00:00"
+    },
+    {
+        "id": 401,
+        "substance_id": 5,
+        "type": "pubchem",
+        "value": "289",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:53+00:00"
+    },
+    {
+        "id": 402,
+        "substance_id": 5,
+        "type": "rtecs",
+        "value": "UX1050000",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:53+00:00"
+    },
+    {
+        "id": 403,
+        "substance_id": 5,
+        "type": "inchi",
+        "value": "1S/C6H6O2/c7-5-3-1-2-4-6(5)8/h1-4,7-8H",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:53+00:00"
+    },
+    {
+        "id": 404,
+        "substance_id": 5,
+        "type": "inchikey",
+        "value": "YCIMNLLNPGFGHC-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:53+00:00"
+    },
+    {
+        "id": 405,
+        "substance_id": 5,
+        "type": "chembl",
+        "value": "CHEMBL280998",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:53+00:00"
+    },
+    {
+        "id": 406,
+        "substance_id": 5,
+        "type": "chemspider",
+        "value": "13837760",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:53+00:00"
+    },
+    {
+        "id": 407,
+        "substance_id": 5,
+        "type": "chebi",
+        "value": "18135",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:53+00:00"
+    },
+    {
+        "id": 408,
+        "substance_id": 5,
+        "type": "reaxys",
+        "value": "471401",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:53+00:00"
+    },
+    {
+        "id": 409,
+        "substance_id": 5,
+        "type": "dsstox",
+        "value": "DTXSID3020257",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:53+00:00"
+    },
+    {
+        "id": 410,
+        "substance_id": 5,
+        "type": "gmelin",
+        "value": "2936",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:54+00:00"
+    },
+    {
+        "id": 411,
+        "substance_id": 5,
+        "type": "othername",
+        "value": "alpha-hydroxyphenol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:54+00:00"
+    },
+    {
+        "id": 412,
+        "substance_id": 5,
+        "type": "othername",
+        "value": "O-Hydroquinone",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:54+00:00"
+    },
+    {
+        "id": 413,
+        "substance_id": 5,
+        "type": "othername",
+        "value": "benzene-1,2-diol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:54+00:00"
+    },
+    {
+        "id": 414,
+        "substance_id": 5,
+        "type": "othername",
+        "value": "o-Benzenediol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:54+00:00"
+    },
+    {
+        "id": 415,
+        "substance_id": 5,
+        "type": "othername",
+        "value": "Fouramine PCH",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:54+00:00"
+    },
+    {
+        "id": 416,
+        "substance_id": 5,
+        "type": "othername",
+        "value": "o-Dihydroxybenzene",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:54+00:00"
+    },
+    {
+        "id": 417,
+        "substance_id": 5,
+        "type": "othername",
+        "value": "Oxyphenic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:54+00:00"
+    },
+    {
+        "id": 418,
+        "substance_id": 5,
+        "type": "othername",
+        "value": "Pelagol Grey C",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:54+00:00"
+    },
+    {
+        "id": 419,
+        "substance_id": 5,
+        "type": "othername",
+        "value": "o-hydroxyphenol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:54+00:00"
+    },
+    {
+        "id": 420,
+        "substance_id": 5,
+        "type": "othername",
+        "value": "Phthalhydroquinone",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:54+00:00"
+    },
+    {
+        "id": 421,
+        "substance_id": 5,
+        "type": "othername",
+        "value": "2-Hydroxyphenol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:54+00:00"
+    },
+    {
+        "id": 422,
+        "substance_id": 5,
+        "type": "othername",
+        "value": "Fourrine 68",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:54+00:00"
+    },
+    {
+        "id": 423,
+        "substance_id": 5,
+        "type": "othername",
+        "value": "Phthalic alcohol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:54+00:00"
+    },
+    {
+        "id": 424,
+        "substance_id": 5,
+        "type": "othername",
+        "value": "O-Phenylenediol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:55+00:00"
+    },
+    {
+        "id": 425,
+        "substance_id": 5,
+        "type": "othername",
+        "value": "Durafur Developer C",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:55+00:00"
+    },
+    {
+        "id": 426,
+        "substance_id": 5,
+        "type": "othername",
+        "value": "1,2-Benzenediol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:55+00:00"
+    },
+    {
+        "id": 427,
+        "substance_id": 5,
+        "type": "othername",
+        "value": "Oxyphenate",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:55+00:00"
+    },
+    {
+        "id": 428,
+        "substance_id": 5,
+        "type": "othername",
+        "value": "Catechol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:55+00:00"
+    },
+    {
+        "id": 429,
+        "substance_id": 5,
+        "type": "othername",
+        "value": "Pyrocatechol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:55+00:00"
+    },
+    {
+        "id": 430,
+        "substance_id": 5,
+        "type": "othername",
+        "value": "1,2-Dihydroxybenzene",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:55+00:00"
+    },
+    {
+        "id": 431,
+        "substance_id": 5,
+        "type": "othername",
+        "value": "Pyrocatechine",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:55+00:00"
+    },
+    {
+        "id": 432,
+        "substance_id": 5,
+        "type": "othername",
+        "value": "O-Dioxybenzene",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:55+00:00"
+    },
+    {
+        "id": 433,
+        "substance_id": 5,
+        "type": "othername",
+        "value": "pyrocatechin",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:49:55+00:00"
+    },
+    {
+        "id": 434,
+        "substance_id": 5,
+        "type": "ismiles",
+        "value": "Oc1ccccc1O",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:55+00:00"
+    },
+    {
+        "id": 435,
+        "substance_id": 5,
+        "type": "inchi",
+        "value": "InChI=1S/C6H6O2/c7-5-3-1-2-4-6(5)8/h1-4,7-8H",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:55+00:00"
+    },
+    {
+        "id": 436,
+        "substance_id": 5,
+        "type": "inchikey",
+        "value": "YCIMNLLNPGFGHC-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:55+00:00"
+    },
+    {
+        "id": 437,
+        "substance_id": 5,
+        "type": "other",
+        "value": "Pyrocatechol",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:49:55+00:00"
+    },
+    {
+        "id": 438,
+        "substance_id": 6,
+        "type": "iupacname",
+        "value": "2-hydroxypropane-1,2,3-tricarboxylic acid",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:50:56+00:00"
+    },
+    {
+        "id": 439,
+        "substance_id": 6,
+        "type": "inchi",
+        "value": "InChI=1S/C6H8O7/c7-3(8)1-6(13,5(11)12)2-4(9)10/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12)",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:50:56+00:00"
+    },
+    {
+        "id": 440,
+        "substance_id": 6,
+        "type": "inchikey",
+        "value": "KRKNYBCHXYNGOX-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:50:56+00:00"
+    },
+    {
+        "id": 441,
+        "substance_id": 6,
+        "type": "csmiles",
+        "value": "C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:50:56+00:00"
+    },
+    {
+        "id": 442,
+        "substance_id": 6,
+        "type": "ismiles",
+        "value": "C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:50:56+00:00"
+    },
+    {
+        "id": 443,
+        "substance_id": 6,
+        "type": "casrn",
+        "value": "77-92-9",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:56+00:00"
+    },
+    {
+        "id": 444,
+        "substance_id": 6,
+        "type": "pubchem",
+        "value": "311",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:56+00:00"
+    },
+    {
+        "id": 445,
+        "substance_id": 6,
+        "type": "rtecs",
+        "value": "GE7350000",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:56+00:00"
+    },
+    {
+        "id": 446,
+        "substance_id": 6,
+        "type": "chebi",
+        "value": "30769",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:57+00:00"
+    },
+    {
+        "id": 447,
+        "substance_id": 6,
+        "type": "inchi",
+        "value": "1S/C6H8O7/c7-3(8)1-6(13,5(11)12)2-4(9)10/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12)",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:57+00:00"
+    },
+    {
+        "id": 448,
+        "substance_id": 6,
+        "type": "inchikey",
+        "value": "KRKNYBCHXYNGOX-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:57+00:00"
+    },
+    {
+        "id": 449,
+        "substance_id": 6,
+        "type": "chemspider",
+        "value": "305",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:57+00:00"
+    },
+    {
+        "id": 450,
+        "substance_id": 6,
+        "type": "chembl",
+        "value": "CHEMBL1261",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:57+00:00"
+    },
+    {
+        "id": 451,
+        "substance_id": 6,
+        "type": "reaxys",
+        "value": "782061",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:57+00:00"
+    },
+    {
+        "id": 452,
+        "substance_id": 6,
+        "type": "dsstox",
+        "value": "DTXSID3020332",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:57+00:00"
+    },
+    {
+        "id": 453,
+        "substance_id": 6,
+        "type": "gmelin",
+        "value": "4240",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:57+00:00"
+    },
+    {
+        "id": 454,
+        "substance_id": 6,
+        "type": "atc",
+        "value": "A09AB04",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:57+00:00"
+    },
+    {
+        "id": 455,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "E330",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:57+00:00"
+    },
+    {
+        "id": 456,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "Hydrocerol A",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:57+00:00"
+    },
+    {
+        "id": 457,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "2-Hydroxy-1,2,3-propanetricarboxylate",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:57+00:00"
+    },
+    {
+        "id": 458,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "Suby G",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:57+00:00"
+    },
+    {
+        "id": 459,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "H3cit",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:57+00:00"
+    },
+    {
+        "id": 460,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "2-Hydroxytricarballylic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:57+00:00"
+    },
+    {
+        "id": 461,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "Citric Acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:57+00:00"
+    },
+    {
+        "id": 462,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "Citric Acid, Anhydrous",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:57+00:00"
+    },
+    {
+        "id": 463,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "Citretten",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:57+00:00"
+    },
+    {
+        "id": 464,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "Anhydrous citrate",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:57+00:00"
+    },
+    {
+        "id": 465,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "beta-Hydroxytricarballylic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:58+00:00"
+    },
+    {
+        "id": 466,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "Uro-trainer",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:58+00:00"
+    },
+    {
+        "id": 467,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "Chemfill",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:58+00:00"
+    },
+    {
+        "id": 468,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "2-hydroxypropane-1,2,3-tricarboxylic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:58+00:00"
+    },
+    {
+        "id": 469,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "Citraclean",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:58+00:00"
+    },
+    {
+        "id": 470,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "Citronensäure",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:58+00:00"
+    },
+    {
+        "id": 471,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "Anhydrous citric acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:58+00:00"
+    },
+    {
+        "id": 472,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "E 330",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:58+00:00"
+    },
+    {
+        "id": 473,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "Citro",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:58+00:00"
+    },
+    {
+        "id": 474,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "anhydrous citric acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:58+00:00"
+    },
+    {
+        "id": 475,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "3-Carboxy-3-hydroxypentane-1,5-dioic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:58+00:00"
+    },
+    {
+        "id": 476,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "beta-Hydroxytricarballylate",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:58+00:00"
+    },
+    {
+        "id": 477,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "Aciletten",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:58+00:00"
+    },
+    {
+        "id": 478,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "Kyselina citronova",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:58+00:00"
+    },
+    {
+        "id": 479,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "3-Carboxy-3-hydroxypentane-1,5-dioate",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:58+00:00"
+    },
+    {
+        "id": 480,
+        "substance_id": 6,
+        "type": "othername",
+        "value": "citrate",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:50:59+00:00"
+    },
+    {
+        "id": 481,
+        "substance_id": 6,
+        "type": "ismiles",
+        "value": "O=C(O)CC(O)(CC(=O)O)C(=O)O",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:50:59+00:00"
+    },
+    {
+        "id": 482,
+        "substance_id": 6,
+        "type": "inchi",
+        "value": "InChI=1S/C6H8O7/c7-3(8)1-6(13,5(11)12)2-4(9)10/h13H,1-2H2,(H,7,8)(H,9,10)(H,11,12)",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:50:59+00:00"
+    },
+    {
+        "id": 483,
+        "substance_id": 6,
+        "type": "inchikey",
+        "value": "KRKNYBCHXYNGOX-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:50:59+00:00"
+    },
+    {
+        "id": 484,
+        "substance_id": 6,
+        "type": "jan",
+        "value": "Citric acid hydrate",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:50:59+00:00"
+    },
+    {
+        "id": 485,
+        "substance_id": 6,
+        "type": "jan",
+        "value": "Anhydrous citric acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:50:59+00:00"
+    },
+    {
+        "id": 486,
+        "substance_id": 6,
+        "type": "jan",
+        "value": "Citric Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:50:59+00:00"
+    },
+    {
+        "id": 487,
+        "substance_id": 6,
+        "type": "usan",
+        "value": "Citric Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:50:59+00:00"
+    },
+    {
+        "id": 488,
+        "substance_id": 6,
+        "type": "atc",
+        "value": "Citric Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:50:59+00:00"
+    },
+    {
+        "id": 489,
+        "substance_id": 6,
+        "type": "fda",
+        "value": "Citric Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:50:59+00:00"
+    },
+    {
+        "id": 490,
+        "substance_id": 6,
+        "type": "merck_index",
+        "value": "Citric Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:50:59+00:00"
+    },
+    {
+        "id": 491,
+        "substance_id": 6,
+        "type": "other",
+        "value": "Citric Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:50:59+00:00"
+    },
+    {
+        "id": 492,
+        "substance_id": 6,
+        "type": "usp",
+        "value": "Citric acid, anhydrous",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:50:59+00:00"
+    },
+    {
+        "id": 493,
+        "substance_id": 6,
+        "type": "usp",
+        "value": "Citric Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:50:59+00:00"
+    },
+    {
+        "id": 494,
+        "substance_id": 6,
+        "type": "e_number",
+        "value": "E330",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:50:59+00:00"
+    },
+    {
+        "id": 495,
+        "substance_id": 6,
+        "type": "research_code",
+        "value": "E-330",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:50:59+00:00"
+    },
+    {
+        "id": 496,
+        "substance_id": 6,
+        "type": "research_code",
+        "value": "INS-330",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:50:59+00:00"
+    },
+    {
+        "id": 497,
+        "substance_id": 6,
+        "type": "research_code",
+        "value": "FEMA NO. 2306",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:51:00+00:00"
+    },
+    {
+        "id": 498,
+        "substance_id": 6,
+        "type": "research_code",
+        "value": "NSC-626579",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:51:00+00:00"
+    },
+    {
+        "id": 499,
+        "substance_id": 6,
+        "type": "research_code",
+        "value": "NSC-30279",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:51:00+00:00"
+    },
+    {
+        "id": 500,
+        "substance_id": 6,
+        "type": "research_code",
+        "value": "NSC-112226",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:51:00+00:00"
+    },
+    {
+        "id": 501,
+        "substance_id": 6,
+        "type": "research_code",
+        "value": "INS NO.330",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:51:00+00:00"
+    },
+    {
+        "id": 502,
+        "substance_id": 6,
+        "type": "trade_name",
+        "value": "Urologic G",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:51:00+00:00"
+    },
+    {
+        "id": 503,
+        "substance_id": 7,
+        "type": "iupacname",
+        "value": "chromen-2-one",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:51:55+00:00"
+    },
+    {
+        "id": 504,
+        "substance_id": 7,
+        "type": "inchi",
+        "value": "InChI=1S/C9H6O2/c10-9-6-5-7-3-1-2-4-8(7)11-9/h1-6H",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:51:55+00:00"
+    },
+    {
+        "id": 505,
+        "substance_id": 7,
+        "type": "inchikey",
+        "value": "ZYGHJZDHTFUPRJ-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:51:55+00:00"
+    },
+    {
+        "id": 506,
+        "substance_id": 7,
+        "type": "csmiles",
+        "value": "C1=CC=C2C(=C1)C=CC(=O)O2",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:51:55+00:00"
+    },
+    {
+        "id": 507,
+        "substance_id": 7,
+        "type": "ismiles",
+        "value": "C1=CC=C2C(=C1)C=CC(=O)O2",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 19:51:55+00:00"
+    },
+    {
+        "id": 508,
+        "substance_id": 7,
+        "type": "casrn",
+        "value": "91-64-5",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:55+00:00"
+    },
+    {
+        "id": 509,
+        "substance_id": 7,
+        "type": "pubchem",
+        "value": "323",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:55+00:00"
+    },
+    {
+        "id": 510,
+        "substance_id": 7,
+        "type": "rtecs",
+        "value": "GN4200000",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:55+00:00"
+    },
+    {
+        "id": 511,
+        "substance_id": 7,
+        "type": "chebi",
+        "value": "28794",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:55+00:00"
+    },
+    {
+        "id": 512,
+        "substance_id": 7,
+        "type": "inchi",
+        "value": "1S/C9H6O2/c10-9-6-5-7-3-1-2-4-8(7)11-9/h1-6H",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:56+00:00"
+    },
+    {
+        "id": 513,
+        "substance_id": 7,
+        "type": "inchikey",
+        "value": "ZYGHJZDHTFUPRJ-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:56+00:00"
+    },
+    {
+        "id": 514,
+        "substance_id": 7,
+        "type": "chemspider",
+        "value": "13848793",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:56+00:00"
+    },
+    {
+        "id": 515,
+        "substance_id": 7,
+        "type": "chembl",
+        "value": "CHEMBL6466",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:56+00:00"
+    },
+    {
+        "id": 516,
+        "substance_id": 7,
+        "type": "reaxys",
+        "value": "383644",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:56+00:00"
+    },
+    {
+        "id": 517,
+        "substance_id": 7,
+        "type": "dsstox",
+        "value": "DTXSID7020348",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:56+00:00"
+    },
+    {
+        "id": 518,
+        "substance_id": 7,
+        "type": "gmelin",
+        "value": "165222",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:56+00:00"
+    },
+    {
+        "id": 519,
+        "substance_id": 7,
+        "type": "othername",
+        "value": "chromen-2-one",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:56+00:00"
+    },
+    {
+        "id": 520,
+        "substance_id": 7,
+        "type": "othername",
+        "value": "o-hydroxycinnamic acid delta-lactone",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:56+00:00"
+    },
+    {
+        "id": 521,
+        "substance_id": 7,
+        "type": "othername",
+        "value": "1, 2-Benzopyrone",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:56+00:00"
+    },
+    {
+        "id": 522,
+        "substance_id": 7,
+        "type": "othername",
+        "value": "2-Oxo-2H-1-Benzopyran",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:56+00:00"
+    },
+    {
+        "id": 523,
+        "substance_id": 7,
+        "type": "othername",
+        "value": "Benzo-alpha-pyrone",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:56+00:00"
+    },
+    {
+        "id": 524,
+        "substance_id": 7,
+        "type": "othername",
+        "value": "2-Oxo-1,2-benzopyran",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:56+00:00"
+    },
+    {
+        "id": 525,
+        "substance_id": 7,
+        "type": "othername",
+        "value": "2-Propenoic acid, 3-(2-hydroxyphenyl)-, delta-lactone",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:56+00:00"
+    },
+    {
+        "id": 526,
+        "substance_id": 7,
+        "type": "othername",
+        "value": "O-Hydroxycinnamic lactone",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:56+00:00"
+    },
+    {
+        "id": 527,
+        "substance_id": 7,
+        "type": "othername",
+        "value": "Kumarin",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:56+00:00"
+    },
+    {
+        "id": 528,
+        "substance_id": 7,
+        "type": "othername",
+        "value": "2H-Chromen-2-one",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:56+00:00"
+    },
+    {
+        "id": 529,
+        "substance_id": 7,
+        "type": "othername",
+        "value": "{2H-Benzo[b]pyran-2-one}",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:56+00:00"
+    },
+    {
+        "id": 530,
+        "substance_id": 7,
+        "type": "othername",
+        "value": "O-Hydroxyzimtsaure-lacton",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:56+00:00"
+    },
+    {
+        "id": 531,
+        "substance_id": 7,
+        "type": "othername",
+        "value": "2H-Chromen-2-one (ACD/Name 4.0)",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:57+00:00"
+    },
+    {
+        "id": 532,
+        "substance_id": 7,
+        "type": "othername",
+        "value": "2H-benzo[b]pyran-2-one",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:57+00:00"
+    },
+    {
+        "id": 533,
+        "substance_id": 7,
+        "type": "othername",
+        "value": "Coumarine",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 19:51:57+00:00"
+    },
+    {
+        "id": 534,
+        "substance_id": 7,
+        "type": "ismiles",
+        "value": "O=c1ccc2ccccc2o1",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:51:57+00:00"
+    },
+    {
+        "id": 535,
+        "substance_id": 7,
+        "type": "inchi",
+        "value": "InChI=1S/C9H6O2/c10-9-6-5-7-3-1-2-4-8(7)11-9/h1-6H",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:51:57+00:00"
+    },
+    {
+        "id": 536,
+        "substance_id": 7,
+        "type": "inchikey",
+        "value": "ZYGHJZDHTFUPRJ-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:51:57+00:00"
+    },
+    {
+        "id": 537,
+        "substance_id": 7,
+        "type": "bnf",
+        "value": "Coumarin",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:51:57+00:00"
+    },
+    {
+        "id": 538,
+        "substance_id": 7,
+        "type": "merck_index",
+        "value": "Coumarin",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:51:57+00:00"
+    },
+    {
+        "id": 539,
+        "substance_id": 7,
+        "type": "national_formulary",
+        "value": "Coumarin",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:51:57+00:00"
+    },
+    {
+        "id": 540,
+        "substance_id": 7,
+        "type": "other",
+        "value": "Coumarin",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:51:57+00:00"
+    },
+    {
+        "id": 541,
+        "substance_id": 7,
+        "type": "trade_name",
+        "value": "Lodema",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:51:57+00:00"
+    },
+    {
+        "id": 542,
+        "substance_id": 7,
+        "type": "research_code",
+        "value": "NSC-8774",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 19:51:57+00:00"
+    },
+    {
+        "id": 543,
+        "substance_id": 8,
+        "type": "iupacname",
+        "value": "2-(tert-butylamino)-1-(3-chlorophenyl)propan-1-one",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 20:09:41+00:00"
+    },
+    {
+        "id": 544,
+        "substance_id": 8,
+        "type": "inchi",
+        "value": "InChI=1S/C13H18ClNO/c1-9(15-13(2,3)4)12(16)10-6-5-7-11(14)8-10/h5-9,15H,1-4H3",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 20:09:41+00:00"
+    },
+    {
+        "id": 545,
+        "substance_id": 8,
+        "type": "inchikey",
+        "value": "SNPPWIUOZRMYNY-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 20:09:41+00:00"
+    },
+    {
+        "id": 546,
+        "substance_id": 8,
+        "type": "csmiles",
+        "value": "CC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)C",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 20:09:41+00:00"
+    },
+    {
+        "id": 547,
+        "substance_id": 8,
+        "type": "ismiles",
+        "value": "CC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)C",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 20:09:41+00:00"
+    },
+    {
+        "id": 548,
+        "substance_id": 8,
+        "type": "casrn",
+        "value": "34911-55-2",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:09:41+00:00"
+    },
+    {
+        "id": 549,
+        "substance_id": 8,
+        "type": "pubchem",
+        "value": "444",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:09:41+00:00"
+    },
+    {
+        "id": 550,
+        "substance_id": 8,
+        "type": "inchi",
+        "value": "1S/C13H18ClNO/c1-9(15-13(2,3)4)12(16)10-6-5-7-11(14)8-10/h5-9,15H,1-4H3",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:09:41+00:00"
+    },
+    {
+        "id": 551,
+        "substance_id": 8,
+        "type": "inchikey",
+        "value": "SNPPWIUOZRMYNY-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:09:41+00:00"
+    },
+    {
+        "id": 552,
+        "substance_id": 8,
+        "type": "chebi",
+        "value": "3219",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:09:41+00:00"
+    },
+    {
+        "id": 553,
+        "substance_id": 8,
+        "type": "chembl",
+        "value": "CHEMBL894",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:09:41+00:00"
+    },
+    {
+        "id": 554,
+        "substance_id": 8,
+        "type": "chemspider",
+        "value": "431",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:09:41+00:00"
+    },
+    {
+        "id": 555,
+        "substance_id": 8,
+        "type": "atc",
+        "value": "N06AX12",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:09:41+00:00"
+    },
+    {
+        "id": 556,
+        "substance_id": 8,
+        "type": "reaxys",
+        "value": "2101062",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:09:41+00:00"
+    },
+    {
+        "id": 557,
+        "substance_id": 8,
+        "type": "dsstox",
+        "value": "DTXSID7022706",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:09:41+00:00"
+    },
+    {
+        "id": 558,
+        "substance_id": 8,
+        "type": "othername",
+        "value": "Zyban®",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:09:41+00:00"
+    },
+    {
+        "id": 559,
+        "substance_id": 8,
+        "type": "othername",
+        "value": "Amfebutamone",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:09:41+00:00"
+    },
+    {
+        "id": 560,
+        "substance_id": 8,
+        "type": "othername",
+        "value": "BW-323",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:09:41+00:00"
+    },
+    {
+        "id": 561,
+        "substance_id": 8,
+        "type": "othername",
+        "value": "Bupropion",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:09:42+00:00"
+    },
+    {
+        "id": 562,
+        "substance_id": 8,
+        "type": "othername",
+        "value": "amfebutamone",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:09:42+00:00"
+    },
+    {
+        "id": 563,
+        "substance_id": 8,
+        "type": "othername",
+        "value": "Wellbutrin®",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:09:42+00:00"
+    },
+    {
+        "id": 564,
+        "substance_id": 8,
+        "type": "ismiles",
+        "value": "CC(NC(C)(C)C)C(=O)c1cccc(Cl)c1",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:09:42+00:00"
+    },
+    {
+        "id": 565,
+        "substance_id": 8,
+        "type": "inchi",
+        "value": "InChI=1S/C13H18ClNO/c1-9(15-13(2,3)4)12(16)10-6-5-7-11(14)8-10/h5-9,15H,1-4H3",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:09:42+00:00"
+    },
+    {
+        "id": 566,
+        "substance_id": 8,
+        "type": "inchikey",
+        "value": "SNPPWIUOZRMYNY-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:09:42+00:00"
+    },
+    {
+        "id": 567,
+        "substance_id": 8,
+        "type": "fda",
+        "value": "Bupropion",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:09:42+00:00"
+    },
+    {
+        "id": 568,
+        "substance_id": 8,
+        "type": "atc",
+        "value": "Bupropion",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:09:42+00:00"
+    },
+    {
+        "id": 569,
+        "substance_id": 8,
+        "type": "ban",
+        "value": "Bupropion",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:09:42+00:00"
+    },
+    {
+        "id": 570,
+        "substance_id": 8,
+        "type": "inn",
+        "value": "Bupropion",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:09:42+00:00"
+    },
+    {
+        "id": 571,
+        "substance_id": 8,
+        "type": "merck_index",
+        "value": "Bupropion",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:09:42+00:00"
+    },
+    {
+        "id": 572,
+        "substance_id": 8,
+        "type": "other",
+        "value": "Bupropion",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:09:42+00:00"
+    },
+    {
+        "id": 573,
+        "substance_id": 9,
+        "type": "iupacname",
+        "value": "6-aminohexanoic acid",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 20:54:10+00:00"
+    },
+    {
+        "id": 574,
+        "substance_id": 9,
+        "type": "inchi",
+        "value": "InChI=1S/C6H13NO2/c7-5-3-1-2-4-6(8)9/h1-5,7H2,(H,8,9)",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 20:54:10+00:00"
+    },
+    {
+        "id": 575,
+        "substance_id": 9,
+        "type": "inchikey",
+        "value": "SLXKOJJOQWFEFD-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 20:54:10+00:00"
+    },
+    {
+        "id": 576,
+        "substance_id": 9,
+        "type": "csmiles",
+        "value": "C(CCC(=O)O)CCN",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 20:54:10+00:00"
+    },
+    {
+        "id": 577,
+        "substance_id": 9,
+        "type": "ismiles",
+        "value": "C(CCC(=O)O)CCN",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 20:54:10+00:00"
+    },
+    {
+        "id": 578,
+        "substance_id": 9,
+        "type": "atc",
+        "value": "B02AA01",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:54:10+00:00"
+    },
+    {
+        "id": 579,
+        "substance_id": 9,
+        "type": "casrn",
+        "value": "60-32-2",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:54:10+00:00"
+    },
+    {
+        "id": 580,
+        "substance_id": 9,
+        "type": "pubchem",
+        "value": "564",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:54:10+00:00"
+    },
+    {
+        "id": 581,
+        "substance_id": 9,
+        "type": "chembl",
+        "value": "CHEMBL1046",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:54:10+00:00"
+    },
+    {
+        "id": 582,
+        "substance_id": 9,
+        "type": "inchi",
+        "value": "1S/C6H13NO2/c7-5-3-1-2-4-6(8)9/h1-5,7H2,(H,8,9)",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:54:10+00:00"
+    },
+    {
+        "id": 583,
+        "substance_id": 9,
+        "type": "inchikey",
+        "value": "SLXKOJJOQWFEFD-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:54:10+00:00"
+    },
+    {
+        "id": 584,
+        "substance_id": 9,
+        "type": "chemspider",
+        "value": "548",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:54:10+00:00"
+    },
+    {
+        "id": 585,
+        "substance_id": 9,
+        "type": "chebi",
+        "value": "16586",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:54:10+00:00"
+    },
+    {
+        "id": 586,
+        "substance_id": 9,
+        "type": "reaxys",
+        "value": "906872",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:54:11+00:00"
+    },
+    {
+        "id": 587,
+        "substance_id": 9,
+        "type": "dsstox",
+        "value": "DTXSID0020070",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:54:11+00:00"
+    },
+    {
+        "id": 588,
+        "substance_id": 9,
+        "type": "gmelin",
+        "value": "101724",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:54:11+00:00"
+    },
+    {
+        "id": 589,
+        "substance_id": 9,
+        "type": "othername",
+        "value": "ε-aminocaproic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:54:11+00:00"
+    },
+    {
+        "id": 590,
+        "substance_id": 9,
+        "type": "othername",
+        "value": "EACA",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:54:11+00:00"
+    },
+    {
+        "id": 591,
+        "substance_id": 9,
+        "type": "othername",
+        "value": "Amicar®",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 20:54:11+00:00"
+    },
+    {
+        "id": 592,
+        "substance_id": 9,
+        "type": "ismiles",
+        "value": "NCCCCCC(=O)O",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:11+00:00"
+    },
+    {
+        "id": 593,
+        "substance_id": 9,
+        "type": "inchi",
+        "value": "InChI=1S/C6H13NO2/c7-5-3-1-2-4-6(8)9/h1-5,7H2,(H,8,9)",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:11+00:00"
+    },
+    {
+        "id": 594,
+        "substance_id": 9,
+        "type": "inchikey",
+        "value": "SLXKOJJOQWFEFD-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:11+00:00"
+    },
+    {
+        "id": 595,
+        "substance_id": 9,
+        "type": "research_code",
+        "value": "CL-10304",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:11+00:00"
+    },
+    {
+        "id": 596,
+        "substance_id": 9,
+        "type": "research_code",
+        "value": "EACA",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:11+00:00"
+    },
+    {
+        "id": 597,
+        "substance_id": 9,
+        "type": "research_code",
+        "value": "NSC-400230",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:11+00:00"
+    },
+    {
+        "id": 598,
+        "substance_id": 9,
+        "type": "research_code",
+        "value": "177 JD",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:11+00:00"
+    },
+    {
+        "id": 599,
+        "substance_id": 9,
+        "type": "research_code",
+        "value": "177 J.D",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:11+00:00"
+    },
+    {
+        "id": 600,
+        "substance_id": 9,
+        "type": "research_code",
+        "value": "CY-116",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:11+00:00"
+    },
+    {
+        "id": 601,
+        "substance_id": 9,
+        "type": "research_code",
+        "value": "177-JD",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:11+00:00"
+    },
+    {
+        "id": 602,
+        "substance_id": 9,
+        "type": "research_code",
+        "value": "177 J.D.",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:11+00:00"
+    },
+    {
+        "id": 603,
+        "substance_id": 9,
+        "type": "research_code",
+        "value": "NSC-26154",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:11+00:00"
+    },
+    {
+        "id": 604,
+        "substance_id": 9,
+        "type": "other",
+        "value": "177 J.D.",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:11+00:00"
+    },
+    {
+        "id": 605,
+        "substance_id": 9,
+        "type": "other",
+        "value": "Aminocaproic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:12+00:00"
+    },
+    {
+        "id": 606,
+        "substance_id": 9,
+        "type": "other",
+        "value": "EACA",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:12+00:00"
+    },
+    {
+        "id": 607,
+        "substance_id": 9,
+        "type": "trade_name",
+        "value": "Epsikapron",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:12+00:00"
+    },
+    {
+        "id": 608,
+        "substance_id": 9,
+        "type": "trade_name",
+        "value": "Aminocaproic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:12+00:00"
+    },
+    {
+        "id": 609,
+        "substance_id": 9,
+        "type": "trade_name",
+        "value": "Aminocaproic",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:12+00:00"
+    },
+    {
+        "id": 610,
+        "substance_id": 9,
+        "type": "trade_name",
+        "value": "Amicar",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:12+00:00"
+    },
+    {
+        "id": 611,
+        "substance_id": 9,
+        "type": "atc",
+        "value": "Aminocaproic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:12+00:00"
+    },
+    {
+        "id": 612,
+        "substance_id": 9,
+        "type": "ban",
+        "value": "Aminocaproic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:12+00:00"
+    },
+    {
+        "id": 613,
+        "substance_id": 9,
+        "type": "bnf",
+        "value": "Aminocaproic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:12+00:00"
+    },
+    {
+        "id": 614,
+        "substance_id": 9,
+        "type": "fda",
+        "value": "Aminocaproic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:12+00:00"
+    },
+    {
+        "id": 615,
+        "substance_id": 9,
+        "type": "inn",
+        "value": "Aminocaproic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:12+00:00"
+    },
+    {
+        "id": 616,
+        "substance_id": 9,
+        "type": "usan",
+        "value": "Aminocaproic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:12+00:00"
+    },
+    {
+        "id": 617,
+        "substance_id": 9,
+        "type": "usp",
+        "value": "Aminocaproic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:12+00:00"
+    },
+    {
+        "id": 618,
+        "substance_id": 9,
+        "type": "jan",
+        "value": ".epsilon.-aminocaproic acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:12+00:00"
+    },
+    {
+        "id": 619,
+        "substance_id": 9,
+        "type": "jan",
+        "value": "epsilon-Aminocaproic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:12+00:00"
+    },
+    {
+        "id": 620,
+        "substance_id": 9,
+        "type": "merck_index",
+        "value": ".epsilon.-aminocaproic acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 20:54:12+00:00"
+    },
+    {
+        "id": 681,
+        "substance_id": 10,
+        "type": "iupacname",
+        "value": "2-hydroxybenzoic acid",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 21:37:55+00:00"
+    },
+    {
+        "id": 682,
+        "substance_id": 10,
+        "type": "inchi",
+        "value": "InChI=1S/C7H6O3/c8-6-4-2-1-3-5(6)7(9)10/h1-4,8H,(H,9,10)",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 21:37:55+00:00"
+    },
+    {
+        "id": 683,
+        "substance_id": 10,
+        "type": "inchikey",
+        "value": "YGSDEFSMJLZEOE-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 21:37:55+00:00"
+    },
+    {
+        "id": 684,
+        "substance_id": 10,
+        "type": "csmiles",
+        "value": "C1=CC=C(C(=C1)C(=O)O)O",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 21:37:55+00:00"
+    },
+    {
+        "id": 685,
+        "substance_id": 10,
+        "type": "ismiles",
+        "value": "C1=CC=C(C(=C1)C(=O)O)O",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 21:37:55+00:00"
+    },
+    {
+        "id": 686,
+        "substance_id": 10,
+        "type": "casrn",
+        "value": "69-72-7",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:55+00:00"
+    },
+    {
+        "id": 687,
+        "substance_id": 10,
+        "type": "pubchem",
+        "value": "338",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:55+00:00"
+    },
+    {
+        "id": 688,
+        "substance_id": 10,
+        "type": "rtecs",
+        "value": "VO0525000",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:55+00:00"
+    },
+    {
+        "id": 689,
+        "substance_id": 10,
+        "type": "chebi",
+        "value": "16914",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:55+00:00"
+    },
+    {
+        "id": 690,
+        "substance_id": 10,
+        "type": "inchi",
+        "value": "1S/C7H6O3/c8-6-4-2-1-3-5(6)7(9)10/h1-4,8H,(H,9,10)",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:55+00:00"
+    },
+    {
+        "id": 691,
+        "substance_id": 10,
+        "type": "inchikey",
+        "value": "YGSDEFSMJLZEOE-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:55+00:00"
+    },
+    {
+        "id": 692,
+        "substance_id": 10,
+        "type": "chemspider",
+        "value": "331",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:55+00:00"
+    },
+    {
+        "id": 693,
+        "substance_id": 10,
+        "type": "chembl",
+        "value": "CHEMBL424",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:55+00:00"
+    },
+    {
+        "id": 694,
+        "substance_id": 10,
+        "type": "atc",
+        "value": "S01BC08",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:55+00:00"
+    },
+    {
+        "id": 695,
+        "substance_id": 10,
+        "type": "reaxys",
+        "value": "774890",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:56+00:00"
+    },
+    {
+        "id": 696,
+        "substance_id": 10,
+        "type": "dsstox",
+        "value": "DTXSID7026368",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:56+00:00"
+    },
+    {
+        "id": 697,
+        "substance_id": 10,
+        "type": "gmelin",
+        "value": "3418",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:56+00:00"
+    },
+    {
+        "id": 698,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "O-Hydroxybenzoate",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:56+00:00"
+    },
+    {
+        "id": 699,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Dr. Scholl'S Callus Removers",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:56+00:00"
+    },
+    {
+        "id": 700,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "salicylate",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:56+00:00"
+    },
+    {
+        "id": 701,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "K 557",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:56+00:00"
+    },
+    {
+        "id": 702,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Duoplant",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:56+00:00"
+    },
+    {
+        "id": 703,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Benzoic acid, 2-hydroxy-",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:56+00:00"
+    },
+    {
+        "id": 704,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Salicylic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:56+00:00"
+    },
+    {
+        "id": 705,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Ionil",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:56+00:00"
+    },
+    {
+        "id": 706,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "2-Carboxyphenol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:56+00:00"
+    },
+    {
+        "id": 707,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Duofil Wart Remover",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:56+00:00"
+    },
+    {
+        "id": 708,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Freezone",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:56+00:00"
+    },
+    {
+        "id": 709,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Salonil",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:56+00:00"
+    },
+    {
+        "id": 710,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Stri-Dex",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:56+00:00"
+    },
+    {
+        "id": 711,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Advanced Pain Relief Corn Removers",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:56+00:00"
+    },
+    {
+        "id": 712,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Dr. Scholl'S Corn Removers",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:56+00:00"
+    },
+    {
+        "id": 713,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "o-hydroxybenzoic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:56+00:00"
+    },
+    {
+        "id": 714,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Salicylic acid Soap",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:57+00:00"
+    },
+    {
+        "id": 715,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Phenol-2-carboxylate",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:57+00:00"
+    },
+    {
+        "id": 716,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "2-carboxyphenol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:57+00:00"
+    },
+    {
+        "id": 717,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Salicylic acid collodion",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:57+00:00"
+    },
+    {
+        "id": 718,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Clear away Wart Remover",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:57+00:00"
+    },
+    {
+        "id": 719,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Ionil Plus",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:57+00:00"
+    },
+    {
+        "id": 720,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Compound W",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:57+00:00"
+    },
+    {
+        "id": 721,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Rutranex",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:57+00:00"
+    },
+    {
+        "id": 722,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Saligel",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:57+00:00"
+    },
+    {
+        "id": 723,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Advanced Pain Relief Callus Removers",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:57+00:00"
+    },
+    {
+        "id": 724,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Retarder W",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:57+00:00"
+    },
+    {
+        "id": 725,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "2-Hydroxybenzoic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:57+00:00"
+    },
+    {
+        "id": 726,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Dr. Scholl'S Wart Remover Kit",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:57+00:00"
+    },
+    {
+        "id": 727,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "2-Hydroxybenzoate",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:57+00:00"
+    },
+    {
+        "id": 728,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Trans-Ver-Sal",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:57+00:00"
+    },
+    {
+        "id": 729,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Bazuka Extra Strength Gel®",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:57+00:00"
+    },
+    {
+        "id": 730,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "O-carboxyphenol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:57+00:00"
+    },
+    {
+        "id": 731,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "o-carboxyphenol",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:57+00:00"
+    },
+    {
+        "id": 732,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Psoriacid-S-Stift",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:58+00:00"
+    },
+    {
+        "id": 733,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "2-Hydroxybenzenecarboxylate",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:58+00:00"
+    },
+    {
+        "id": 734,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "2-Hydroxybenzenecarboxylic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:58+00:00"
+    },
+    {
+        "id": 735,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "Phenol-2-carboxylic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:58+00:00"
+    },
+    {
+        "id": 736,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "O-hydroxybenzoic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:58+00:00"
+    },
+    {
+        "id": 737,
+        "substance_id": 10,
+        "type": "othername",
+        "value": "K 537",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:37:58+00:00"
+    },
+    {
+        "id": 738,
+        "substance_id": 10,
+        "type": "ismiles",
+        "value": "O=C(O)c1ccccc1O",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:37:58+00:00"
+    },
+    {
+        "id": 739,
+        "substance_id": 10,
+        "type": "inchi",
+        "value": "InChI=1S/C7H6O3/c8-6-4-2-1-3-5(6)7(9)10/h1-4,8H,(H,9,10)",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:37:58+00:00"
+    },
+    {
+        "id": 740,
+        "substance_id": 10,
+        "type": "inchikey",
+        "value": "YGSDEFSMJLZEOE-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:37:58+00:00"
+    },
+    {
+        "id": 741,
+        "substance_id": 10,
+        "type": "systematic",
+        "value": "Salicylic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:37:58+00:00"
+    },
+    {
+        "id": 742,
+        "substance_id": 10,
+        "type": "systematic",
+        "value": "2-Hydroxy-benzoic acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:37:58+00:00"
+    },
+    {
+        "id": 743,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Wartex",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:37:58+00:00"
+    },
+    {
+        "id": 744,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Occlusal",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:37:58+00:00"
+    },
+    {
+        "id": 745,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Salatac",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:37:58+00:00"
+    },
+    {
+        "id": 746,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Cuplex Verruca",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:37:58+00:00"
+    },
+    {
+        "id": 747,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Duoplant",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:37:58+00:00"
+    },
+    {
+        "id": 748,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Posalfilin",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:37:59+00:00"
+    },
+    {
+        "id": 749,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Erytex",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:37:59+00:00"
+    },
+    {
+        "id": 750,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Ionil",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:00+00:00"
+    },
+    {
+        "id": 751,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Verrugon",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:00+00:00"
+    },
+    {
+        "id": 752,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Keralyt",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:00+00:00"
+    },
+    {
+        "id": 753,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Freezone",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:00+00:00"
+    },
+    {
+        "id": 754,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Acnisal",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:00+00:00"
+    },
+    {
+        "id": 755,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Necol",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:00+00:00"
+    },
+    {
+        "id": 756,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Stri-Dex",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:00+00:00"
+    },
+    {
+        "id": 757,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Duofilm Wart Remover",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:00+00:00"
+    },
+    {
+        "id": 758,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Duofilm",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:00+00:00"
+    },
+    {
+        "id": 759,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Ionil-Plus",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:00+00:00"
+    },
+    {
+        "id": 760,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Salactol",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:00+00:00"
+    },
+    {
+        "id": 761,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Phiso-Clear",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:00+00:00"
+    },
+    {
+        "id": 762,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Phytex",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:00+00:00"
+    },
+    {
+        "id": 763,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Toepedo",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:00+00:00"
+    },
+    {
+        "id": 764,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Jadit",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:00+00:00"
+    },
+    {
+        "id": 765,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Compound W",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:00+00:00"
+    },
+    {
+        "id": 766,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Advanced Pain Relief Com Removers",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:00+00:00"
+    },
+    {
+        "id": 767,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Phytocil",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:00+00:00"
+    },
+    {
+        "id": 768,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Pyralvex",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:01+00:00"
+    },
+    {
+        "id": 769,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Saligel",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:01+00:00"
+    },
+    {
+        "id": 770,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Thwart",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:01+00:00"
+    },
+    {
+        "id": 771,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Advanced Pain Relief Callus Removers",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:01+00:00"
+    },
+    {
+        "id": 772,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Bazuka",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:01+00:00"
+    },
+    {
+        "id": 773,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Edinburgh",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:01+00:00"
+    },
+    {
+        "id": 774,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Gppe Paint",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:01+00:00"
+    },
+    {
+        "id": 775,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Salicylic Acid Soap",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:01+00:00"
+    },
+    {
+        "id": 776,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Compound V",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:01+00:00"
+    },
+    {
+        "id": 777,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Clear Away Wart Remover",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:01+00:00"
+    },
+    {
+        "id": 778,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Metanium",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:01+00:00"
+    },
+    {
+        "id": 779,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Dr. Scholl's Corn Removers",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:01+00:00"
+    },
+    {
+        "id": 780,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Dr. Scholl's Wart Remover Kit",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:01+00:00"
+    },
+    {
+        "id": 781,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Dr. Scholl's Callus Removers",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:01+00:00"
+    },
+    {
+        "id": 782,
+        "substance_id": 10,
+        "type": "trade_name",
+        "value": "Noxacorn",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:01+00:00"
+    },
+    {
+        "id": 783,
+        "substance_id": 10,
+        "type": "research_code",
+        "value": "NSC-180",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:01+00:00"
+    },
+    {
+        "id": 784,
+        "substance_id": 10,
+        "type": "research_code",
+        "value": "K-557",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:01+00:00"
+    },
+    {
+        "id": 785,
+        "substance_id": 10,
+        "type": "research_code",
+        "value": "FEMA NO. 3985",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:01+00:00"
+    },
+    {
+        "id": 786,
+        "substance_id": 10,
+        "type": "usp",
+        "value": "Salicylic acid rs",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:01+00:00"
+    },
+    {
+        "id": 787,
+        "substance_id": 10,
+        "type": "usp",
+        "value": "Salicylic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:02+00:00"
+    },
+    {
+        "id": 788,
+        "substance_id": 10,
+        "type": "usp",
+        "value": "Lamivudine impurity, salicylic acid-",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:02+00:00"
+    },
+    {
+        "id": 789,
+        "substance_id": 10,
+        "type": "inn",
+        "value": "Salicylic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:02+00:00"
+    },
+    {
+        "id": 790,
+        "substance_id": 10,
+        "type": "atc",
+        "value": "Salicylic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:02+00:00"
+    },
+    {
+        "id": 791,
+        "substance_id": 10,
+        "type": "bnf",
+        "value": "Salicylic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:02+00:00"
+    },
+    {
+        "id": 792,
+        "substance_id": 10,
+        "type": "jan",
+        "value": "Salicylic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:02+00:00"
+    },
+    {
+        "id": 793,
+        "substance_id": 10,
+        "type": "merck_index",
+        "value": "Salicylic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:02+00:00"
+    },
+    {
+        "id": 794,
+        "substance_id": 10,
+        "type": "other",
+        "value": "Salicylic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:02+00:00"
+    },
+    {
+        "id": 795,
+        "substance_id": 11,
+        "type": "iupacname",
+        "value": "2-hydroxypropanoic acid",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 21:38:48+00:00"
+    },
+    {
+        "id": 796,
+        "substance_id": 11,
+        "type": "inchi",
+        "value": "InChI=1S/C3H6O3/c1-2(4)3(5)6/h2,4H,1H3,(H,5,6)",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 21:38:48+00:00"
+    },
+    {
+        "id": 797,
+        "substance_id": 11,
+        "type": "inchikey",
+        "value": "JVTAAEKCZFNVCJ-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 21:38:48+00:00"
+    },
+    {
+        "id": 798,
+        "substance_id": 11,
+        "type": "csmiles",
+        "value": "CC(C(=O)O)O",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 21:38:48+00:00"
+    },
+    {
+        "id": 799,
+        "substance_id": 11,
+        "type": "ismiles",
+        "value": "CC(C(=O)O)O",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-08 21:38:48+00:00"
+    },
+    {
+        "id": 800,
+        "substance_id": 11,
+        "type": "casrn",
+        "value": "50-21-5",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:48+00:00"
+    },
+    {
+        "id": 801,
+        "substance_id": 11,
+        "type": "inchikey",
+        "value": "JVTAAEKCZFNVCJ-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:48+00:00"
+    },
+    {
+        "id": 802,
+        "substance_id": 11,
+        "type": "chebi",
+        "value": "78320",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:48+00:00"
+    },
+    {
+        "id": 803,
+        "substance_id": 11,
+        "type": "inchi",
+        "value": "1S/C3H6O3/c1-2(4)3(5)6/h2,4H,1H3,(H,5,6)",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:48+00:00"
+    },
+    {
+        "id": 804,
+        "substance_id": 11,
+        "type": "chembl",
+        "value": "CHEMBL1200559",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:49+00:00"
+    },
+    {
+        "id": 805,
+        "substance_id": 11,
+        "type": "pubchem",
+        "value": "612",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:49+00:00"
+    },
+    {
+        "id": 806,
+        "substance_id": 11,
+        "type": "atc",
+        "value": "G01AD01",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:49+00:00"
+    },
+    {
+        "id": 807,
+        "substance_id": 11,
+        "type": "chemspider",
+        "value": "592",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:49+00:00"
+    },
+    {
+        "id": 808,
+        "substance_id": 11,
+        "type": "dsstox",
+        "value": "DTXSID7023192",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:49+00:00"
+    },
+    {
+        "id": 809,
+        "substance_id": 11,
+        "type": "reaxys",
+        "value": "8897340",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:49+00:00"
+    },
+    {
+        "id": 810,
+        "substance_id": 11,
+        "type": "othername",
+        "value": "DL-Lactic Acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:49+00:00"
+    },
+    {
+        "id": 811,
+        "substance_id": 11,
+        "type": "othername",
+        "value": "α-hydroxypropanoic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:49+00:00"
+    },
+    {
+        "id": 812,
+        "substance_id": 11,
+        "type": "othername",
+        "value": "Milk acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:49+00:00"
+    },
+    {
+        "id": 813,
+        "substance_id": 11,
+        "type": "othername",
+        "value": "milk acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:49+00:00"
+    },
+    {
+        "id": 814,
+        "substance_id": 11,
+        "type": "othername",
+        "value": "(±)-lactic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:49+00:00"
+    },
+    {
+        "id": 815,
+        "substance_id": 11,
+        "type": "othername",
+        "value": "α-hydroxypropionic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:49+00:00"
+    },
+    {
+        "id": 816,
+        "substance_id": 11,
+        "type": "othername",
+        "value": "Milchsäure",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:49+00:00"
+    },
+    {
+        "id": 817,
+        "substance_id": 11,
+        "type": "othername",
+        "value": "Lactic Acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:49+00:00"
+    },
+    {
+        "id": 818,
+        "substance_id": 11,
+        "type": "othername",
+        "value": "2-Hydroxypropionic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:49+00:00"
+    },
+    {
+        "id": 819,
+        "substance_id": 11,
+        "type": "othername",
+        "value": "Acidum lacticum",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:49+00:00"
+    },
+    {
+        "id": 820,
+        "substance_id": 11,
+        "type": "othername",
+        "value": "Lacticum acidum",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:49+00:00"
+    },
+    {
+        "id": 821,
+        "substance_id": 11,
+        "type": "othername",
+        "value": "Lactic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:49+00:00"
+    },
+    {
+        "id": 822,
+        "substance_id": 11,
+        "type": "othername",
+        "value": "2-Hydroxypropanoic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:49+00:00"
+    },
+    {
+        "id": 823,
+        "substance_id": 11,
+        "type": "othername",
+        "value": "DL- lactic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:50+00:00"
+    },
+    {
+        "id": 824,
+        "substance_id": 11,
+        "type": "othername",
+        "value": "DL-Milchsäure",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:50+00:00"
+    },
+    {
+        "id": 825,
+        "substance_id": 11,
+        "type": "othername",
+        "value": "rac-lactic acid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-08 21:38:50+00:00"
+    },
+    {
+        "id": 826,
+        "substance_id": 11,
+        "type": "ismiles",
+        "value": "CC(O)C(=O)O",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:50+00:00"
+    },
+    {
+        "id": 827,
+        "substance_id": 11,
+        "type": "inchi",
+        "value": "InChI=1S/C3H6O3/c1-2(4)3(5)6/h2,4H,1H3,(H,5,6)",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:50+00:00"
+    },
+    {
+        "id": 828,
+        "substance_id": 11,
+        "type": "inchikey",
+        "value": "JVTAAEKCZFNVCJ-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:50+00:00"
+    },
+    {
+        "id": 829,
+        "substance_id": 11,
+        "type": "other",
+        "value": "Lactic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:50+00:00"
+    },
+    {
+        "id": 830,
+        "substance_id": 11,
+        "type": "other",
+        "value": "Dl- lactic acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:50+00:00"
+    },
+    {
+        "id": 831,
+        "substance_id": 11,
+        "type": "merck_index",
+        "value": "Dl-lactic acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:50+00:00"
+    },
+    {
+        "id": 832,
+        "substance_id": 11,
+        "type": "e_number",
+        "value": "E270",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:50+00:00"
+    },
+    {
+        "id": 833,
+        "substance_id": 11,
+        "type": "research_code",
+        "value": "INS NO.270",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:50+00:00"
+    },
+    {
+        "id": 834,
+        "substance_id": 11,
+        "type": "research_code",
+        "value": "PURAC FCC 80",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:50+00:00"
+    },
+    {
+        "id": 835,
+        "substance_id": 11,
+        "type": "research_code",
+        "value": "FEMA NO. 2611",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:50+00:00"
+    },
+    {
+        "id": 836,
+        "substance_id": 11,
+        "type": "research_code",
+        "value": "E-270",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:50+00:00"
+    },
+    {
+        "id": 837,
+        "substance_id": 11,
+        "type": "research_code",
+        "value": "INS-270",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:50+00:00"
+    },
+    {
+        "id": 838,
+        "substance_id": 11,
+        "type": "research_code",
+        "value": "NSC-367919",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:50+00:00"
+    },
+    {
+        "id": 839,
+        "substance_id": 11,
+        "type": "research_code",
+        "value": "PURAC FCC 88",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:50+00:00"
+    },
+    {
+        "id": 840,
+        "substance_id": 11,
+        "type": "research_code",
+        "value": "HIPURE 88",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:50+00:00"
+    },
+    {
+        "id": 841,
+        "substance_id": 11,
+        "type": "research_code",
+        "value": "E 270",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:51+00:00"
+    },
+    {
+        "id": 842,
+        "substance_id": 11,
+        "type": "atc",
+        "value": "Lactic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:51+00:00"
+    },
+    {
+        "id": 843,
+        "substance_id": 11,
+        "type": "bnf",
+        "value": "Lactic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:51+00:00"
+    },
+    {
+        "id": 844,
+        "substance_id": 11,
+        "type": "fda",
+        "value": "Lactic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:51+00:00"
+    },
+    {
+        "id": 845,
+        "substance_id": 11,
+        "type": "jan",
+        "value": "Lactic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:51+00:00"
+    },
+    {
+        "id": 846,
+        "substance_id": 11,
+        "type": "usp",
+        "value": "Lactic Acid",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-08 21:38:51+00:00"
+    },
+    {
+        "id": 847,
+        "substance_id": 12,
+        "type": "iupacname",
+        "value": "methylsulfinylmethane",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-09 08:28:26+00:00"
+    },
+    {
+        "id": 848,
+        "substance_id": 12,
+        "type": "inchi",
+        "value": "InChI=1S/C2H6OS/c1-4(2)3/h1-2H3",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-09 08:28:26+00:00"
+    },
+    {
+        "id": 849,
+        "substance_id": 12,
+        "type": "inchikey",
+        "value": "IAZDPXIOMUYVGZ-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-09 08:28:26+00:00"
+    },
+    {
+        "id": 850,
+        "substance_id": 12,
+        "type": "csmiles",
+        "value": "CS(=O)C",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-09 08:28:26+00:00"
+    },
+    {
+        "id": 851,
+        "substance_id": 12,
+        "type": "ismiles",
+        "value": "CS(=O)C",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-09 08:28:26+00:00"
+    },
+    {
+        "id": 852,
+        "substance_id": 12,
+        "type": "casrn",
+        "value": "67-68-5",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:26+00:00"
+    },
+    {
+        "id": 853,
+        "substance_id": 12,
+        "type": "pubchem",
+        "value": "679",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:26+00:00"
+    },
+    {
+        "id": 854,
+        "substance_id": 12,
+        "type": "rtecs",
+        "value": "PV6210000",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:26+00:00"
+    },
+    {
+        "id": 855,
+        "substance_id": 12,
+        "type": "chebi",
+        "value": "28262",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:26+00:00"
+    },
+    {
+        "id": 856,
+        "substance_id": 12,
+        "type": "inchi",
+        "value": "1S/C2H6OS/c1-4(2)3/h1-2H3",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:26+00:00"
+    },
+    {
+        "id": 857,
+        "substance_id": 12,
+        "type": "inchikey",
+        "value": "IAZDPXIOMUYVGZ-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:26+00:00"
+    },
+    {
+        "id": 858,
+        "substance_id": 12,
+        "type": "chemspider",
+        "value": "659",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:26+00:00"
+    },
+    {
+        "id": 859,
+        "substance_id": 12,
+        "type": "chembl",
+        "value": "CHEMBL504",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:26+00:00"
+    },
+    {
+        "id": 860,
+        "substance_id": 12,
+        "type": "atc",
+        "value": "M02AX03",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:26+00:00"
+    },
+    {
+        "id": 861,
+        "substance_id": 12,
+        "type": "reaxys",
+        "value": "506008",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:26+00:00"
+    },
+    {
+        "id": 862,
+        "substance_id": 12,
+        "type": "dsstox",
+        "value": "DTXSID2021735",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:26+00:00"
+    },
+    {
+        "id": 863,
+        "substance_id": 12,
+        "type": "gmelin",
+        "value": "1556",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:26+00:00"
+    },
+    {
+        "id": 864,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "Methylsulfinylmethane",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:27+00:00"
+    },
+    {
+        "id": 865,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "dimethylsulfoxyde",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:27+00:00"
+    },
+    {
+        "id": 866,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "(CH3)2SO",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:27+00:00"
+    },
+    {
+        "id": 867,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "Dimetil sulfoxido",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:27+00:00"
+    },
+    {
+        "id": 868,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "Dimethyl sulfur oxide",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:27+00:00"
+    },
+    {
+        "id": 869,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "SQ-9453",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:27+00:00"
+    },
+    {
+        "id": 870,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "Sulfinylbis(methane)",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:27+00:00"
+    },
+    {
+        "id": 871,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "Dimethylsulfoxid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:27+00:00"
+    },
+    {
+        "id": 872,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "Infiltrina",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:27+00:00"
+    },
+    {
+        "id": 873,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "S(O)Me2",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:27+00:00"
+    },
+    {
+        "id": 874,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "Rimso 50",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:27+00:00"
+    },
+    {
+        "id": 875,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "Dimethylsulfoxyde",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:27+00:00"
+    },
+    {
+        "id": 876,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "dimethylsulfoxid",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:27+00:00"
+    },
+    {
+        "id": 877,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "sulfinylbis(methane)",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:27+00:00"
+    },
+    {
+        "id": 878,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "Dimethyl sulfoxide",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:27+00:00"
+    },
+    {
+        "id": 879,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "Dimethyli sulfoxidum",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:27+00:00"
+    },
+    {
+        "id": 880,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "Domoso",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:27+00:00"
+    },
+    {
+        "id": 881,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "DMSO",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:27+00:00"
+    },
+    {
+        "id": 882,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "dimethyl sulphoxide",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:28+00:00"
+    },
+    {
+        "id": 883,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "Dimethyl sulphoxide",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:28+00:00"
+    },
+    {
+        "id": 884,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "Syntexan",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:28+00:00"
+    },
+    {
+        "id": 885,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "methylsulfinylmethane",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:28+00:00"
+    },
+    {
+        "id": 886,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "dimethyl sulfur oxide",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:28+00:00"
+    },
+    {
+        "id": 887,
+        "substance_id": 12,
+        "type": "othername",
+        "value": "Rimso-50",
+        "iso": null,
+        "source": "wikidata",
+        "comment": null,
+        "updated": "2020-06-09 08:28:28+00:00"
+    },
+    {
+        "id": 888,
+        "substance_id": 12,
+        "type": "ismiles",
+        "value": "C[S+](C)[O-]",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-09 08:28:28+00:00"
+    },
+    {
+        "id": 889,
+        "substance_id": 12,
+        "type": "inchi",
+        "value": "InChI=1S/C2H6OS/c1-4(2)3/h1-2H3",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-09 08:28:28+00:00"
+    },
+    {
+        "id": 890,
+        "substance_id": 12,
+        "type": "inchikey",
+        "value": "IAZDPXIOMUYVGZ-UHFFFAOYSA-N",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-09 08:28:28+00:00"
+    },
+    {
+        "id": 891,
+        "substance_id": 12,
+        "type": "atc",
+        "value": "Dimethyl Sulfoxide",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-09 08:28:28+00:00"
+    },
+    {
+        "id": 892,
+        "substance_id": 12,
+        "type": "ban",
+        "value": "Dimethyl Sulfoxide",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-09 08:28:28+00:00"
+    },
+    {
+        "id": 893,
+        "substance_id": 12,
+        "type": "bnf",
+        "value": "Dimethyl Sulfoxide",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-09 08:28:28+00:00"
+    },
+    {
+        "id": 894,
+        "substance_id": 12,
+        "type": "fda",
+        "value": "Dimethyl Sulfoxide",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-09 08:28:28+00:00"
+    },
+    {
+        "id": 895,
+        "substance_id": 12,
+        "type": "inn",
+        "value": "Dimethyl Sulfoxide",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-09 08:28:28+00:00"
+    },
+    {
+        "id": 896,
+        "substance_id": 12,
+        "type": "merck_index",
+        "value": "Dimethyl Sulfoxide",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-09 08:28:28+00:00"
+    },
+    {
+        "id": 897,
+        "substance_id": 12,
+        "type": "other",
+        "value": "Dimethyl Sulfoxide",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-09 08:28:28+00:00"
+    },
+    {
+        "id": 898,
+        "substance_id": 12,
+        "type": "other",
+        "value": "DMSO",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-09 08:28:28+00:00"
+    },
+    {
+        "id": 899,
+        "substance_id": 12,
+        "type": "trade_name",
+        "value": "Rimso 50",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-09 08:28:28+00:00"
+    },
+    {
+        "id": 900,
+        "substance_id": 12,
+        "type": "trade_name",
+        "value": "Syntexan",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-09 08:28:28+00:00"
+    },
+    {
+        "id": 901,
+        "substance_id": 12,
+        "type": "trade_name",
+        "value": "Rimso-50",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-09 08:28:29+00:00"
+    },
+    {
+        "id": 902,
+        "substance_id": 12,
+        "type": "trade_name",
+        "value": "Dimethyl Sulfoxide",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-09 08:28:29+00:00"
+    },
+    {
+        "id": 903,
+        "substance_id": 12,
+        "type": "trade_name",
+        "value": "DMSO",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-09 08:28:29+00:00"
+    },
+    {
+        "id": 904,
+        "substance_id": 12,
+        "type": "trade_name",
+        "value": "Infiltrina",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-09 08:28:29+00:00"
+    },
+    {
+        "id": 905,
+        "substance_id": 12,
+        "type": "trade_name",
+        "value": "Domoso",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-09 08:28:29+00:00"
+    },
+    {
+        "id": 906,
+        "substance_id": 12,
+        "type": "usan",
+        "value": "Dimethyl Sulfoxide",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-09 08:28:29+00:00"
+    },
+    {
+        "id": 907,
+        "substance_id": 12,
+        "type": "usp",
+        "value": "Dimethyl Sulfoxide",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-09 08:28:29+00:00"
+    },
+    {
+        "id": 908,
+        "substance_id": 12,
+        "type": "research_code",
+        "value": "NSC-763",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-09 08:28:29+00:00"
+    },
+    {
+        "id": 909,
+        "substance_id": 12,
+        "type": "research_code",
+        "value": "DMSO",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-09 08:28:29+00:00"
+    },
+    {
+        "id": 910,
+        "substance_id": 12,
+        "type": "research_code",
+        "value": "SQ-9453",
+        "iso": null,
+        "source": "chembl",
+        "comment": null,
+        "updated": "2020-06-09 08:28:29+00:00"
+    },
+    {
+        "id": 911,
+        "substance_id": 15,
+        "type": "iupacname",
+        "value": "ethanol",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-09 08:33:23+00:00"
+    },
+    {
+        "id": 912,
+        "substance_id": 15,
+        "type": "inchi",
+        "value": "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3",
+        "iso": null,
+        "source": "pubchem",
+        "comment": null,
+        "updated": "2020-06-09 08:33:23+00:00"
+    }
+]
