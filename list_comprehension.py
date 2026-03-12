@@ -45,7 +45,7 @@ with open('listfile.json', 'r', encoding="utf8") as filehandle: #assigns the con
 
 
     """How many unique "substance_id"s are in listfile.json?"""
-    #hint: One option is to create an empty list and populate it with all of the substance_id's. Then convert it to a set and get the length.
+    #hint: One option is to create an empty list and populate it with all the substance_id's. Then convert it to a set and get the length.
 
 
     """How many identifiers are of the type 'csmiles' AND from the source 'pubchem'?"""
