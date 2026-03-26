@@ -1,10 +1,5 @@
 import json
 
-"""These triple quotes are called docstrings"""
-"""Like comments (ie. #), they will be ignored by the interpreter and are useful for documenting your code.
-They can also span multiple lines like this.
-There are standardized ways of documenting your code, but use them how you wish for now."""
-
 with open('listfile.json', 'r', encoding="utf8") as filehandle: #assigns the contents of  listfile.json to the variable titled filehandle
     identifier_list = json.load(filehandle) #interprets filehandle as JSON and assigns that to the variable titled identifier_list
 
